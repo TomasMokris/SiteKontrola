@@ -1,0 +1,2 @@
+Potřebuje se nainstalovat:
+pip install psutil tabulate
